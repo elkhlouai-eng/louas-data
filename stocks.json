@@ -1,8 +1,8 @@
 {
-  "prod-1": { "nom": "COMING SOON // DROP 01", "prix": 450, "stock": 5 },
-  "prod-2": { "nom": "COMING SOON // DROP 02", "prix": 500, "stock": 0 },
-  "prod-3": { "nom": "COMING SOON // DROP 03", "prix": 650, "stock": 10 },
-  "prod-4": { "nom": "COMING SOON // DROP 04", "prix": 400, "stock": 0 },
+  "prod-1": { "nom": "COMING SOON // DROP 01", "prix": 250, "stock": 5 },
+  "prod-2": { "nom": "COMING SOON // DROP 02", "prix": 250, "stock": 0 },
+  "prod-3": { "nom": "COMING SOON // DROP 03", "prix": 250, "stock": 10 },
+  "prod-4": { "nom": "COMING SOON // DROP 04", "prix": 250, "stock": 0 },
   "prod-5": { "nom": "COMING SOON // DROP 05", "prix": 550, "stock": 2 },
   "prod-6": { "nom": "COMING SOON // DROP 06", "prix": 700, "stock": 1 }
 }
